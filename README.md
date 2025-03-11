@@ -7,3 +7,7 @@ All the information was found by myself by looking at the circuit so I cannot gu
 
 If you find any inaccuracies, please do let me know!
 
+Genelec 1037A adjustments.pdf - The main file describing how to align a Genelec 1037A
+Genelec-1031A-Service_Manual.pdf - The Genelec 1031 Service Manual (as a reference)
+
+
