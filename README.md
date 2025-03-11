@@ -1,4 +1,4 @@
-# genelec
+# Genelec-1037A
 Genelec 1037A adjustment sheet
 
 This sheet explains how to adjust the BIAS and the OFFSET on a Genelec 1037A TriAmplified speaker. 
