@@ -11,4 +11,6 @@ Genelec 1037A adjustments.pdf - The main file describing how to align a Genelec 
 
 Genelec-1031A-Service_Manual.pdf - The Genelec 1031 Service Manual (as a reference)
 
+I made a video where I take a look at a 1037A, check it out: https://youtu.be/8p4Mvrs26DA
+
 
