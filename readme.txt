@@ -1,6 +1,0 @@
-This sheet explains how to adjust the BIAS and the OFFSET on a Genelec 1037A TriAmplified speaker. 
-
-All the information was found by myself by looking at the circuit so I cannot guarantee 100% that this is correct. But the 1037A is very similar to the 1031A for which there is a schematic. 
-
-If you find any inaccuracies, please do let me know!
-
